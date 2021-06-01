@@ -1,0 +1,18 @@
+[
+
+    {
+        "id": 1,
+        "image": "https://github.com/Tarmity/portfolio/blob/master/src/components/CardCont/img/phone.png?raw=true",
+        "title": "Call Me",
+        "details": "+61409298471",
+        "pic": "me on phone"
+    },
+    {
+        "id":2,
+        "image": "https://github.com/Tarmity/portfolio/blob/master/src/components/CardCont/img/email.png?raw=true",
+        "title": "Email Me",
+        "details": "tarmity.flassman@gmail.com",
+        "pic": "me on laptop"
+    }
+
+]
