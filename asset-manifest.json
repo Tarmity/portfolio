@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.0a692af4.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.2a60aec0.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.2a60aec0.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.1d992053.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.1d992053.js.map",
+    "static/css/2.8163d445.chunk.css": "/react-portfolio/static/css/2.8163d445.chunk.css",
+    "static/js/2.9fc64bab.chunk.js": "/react-portfolio/static/js/2.9fc64bab.chunk.js",
+    "static/js/2.9fc64bab.chunk.js.map": "/react-portfolio/static/js/2.9fc64bab.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.7c2c0d1066308a647f77dc79e791d2d4.js": "/react-portfolio/precache-manifest.7c2c0d1066308a647f77dc79e791d2d4.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/2.8163d445.chunk.css.map": "/react-portfolio/static/css/2.8163d445.chunk.css.map",
+    "static/css/main.0a692af4.chunk.css.map": "/react-portfolio/static/css/main.0a692af4.chunk.css.map",
+    "static/js/2.9fc64bab.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.9fc64bab.chunk.js.LICENSE.txt",
+    "static/media/Resume2.pdf": "/react-portfolio/static/media/Resume2.c03cd456.pdf",
+    "static/media/TarmityLogo2.png": "/react-portfolio/static/media/TarmityLogo2.66d663e9.png",
+    "static/media/cartoonPic.png": "/react-portfolio/static/media/cartoonPic.068dbe4e.png",
+    "static/media/email.png": "/react-portfolio/static/media/email.c7b79c08.png",
+    "static/media/phone.png": "/react-portfolio/static/media/phone.b810d391.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d992053.js",
+    "static/css/2.8163d445.chunk.css",
+    "static/js/2.9fc64bab.chunk.js",
+    "static/css/main.0a692af4.chunk.css",
+    "static/js/main.2a60aec0.chunk.js"
+  ]
+}
