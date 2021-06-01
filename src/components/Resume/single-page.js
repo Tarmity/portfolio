@@ -55,12 +55,12 @@ const SinglePage = (props) => {
                 >
                     Next
                 </button>{" "}
-                {/* <a href='./Resume2.pdf' target="_blank" rel="noopener noreferrer" download>
+                <a href='./Resume2.pdf' target="_blank" rel="noopener noreferrer" download>
                      <button>
                         <i className="fas fa-download" />
                      Download 
                      </button>
-                </a> */}
+                </a>
             </div>
 
         </>
