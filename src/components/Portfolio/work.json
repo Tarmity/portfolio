@@ -3,9 +3,9 @@
         "id": 1,
         "image": "https://github.com/Tarmity/react-portfolio/blob/master/src/components/CardPort/img/scorFunding.png?raw=true",
         "title": "Scor Funding",
-        "about": "Scor Funding is is a landing page for a funding line. Each CSS component was built using CSS5. The site is fully mobile responsive using @media queries for mobile devices ",
+        "about": "Scor Funding is is a landing page for a funding line. Each CSS component was built using CSS. The site is fully mobile responsive using @media queries for mobile devices ",
         "languages": " HTML, CSS, JavaScript ",
-        "tech": " Flex, CSS5",
+        "tech": " Flex, CSS",
         "github": "https://github.com/Tarmity/scorfunding",
         "website": "https://tarmity.github.io/scorfunding/"
     },
